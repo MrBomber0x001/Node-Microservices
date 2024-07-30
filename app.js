@@ -1,3 +1,7 @@
+/**
+ * @description This code demonstrates the basic implementation of API gateway in native Express
+ * The real & complex implementation of the API gateway is on "ExpressApiGateway" dir.
+ */
 import express from 'express';
 import morgan from 'morgan';
 import httpProxy from 'http-proxy';
