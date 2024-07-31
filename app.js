@@ -53,12 +53,12 @@ http.createServer((req, res) => {
 }).listen(3001)
 
 http.createServer((req, res) => {
-    res.end("Service 1 response")
-}).listen(3001)
+    res.end("Service 2 response")
+}).listen(3002)
 
 http.createServer((req, res) => {
-    res.end("Service 1 response")
-}).listen(3001)
+    res.end("Service 3 response")
+}).listen(3003)
 
 
 
