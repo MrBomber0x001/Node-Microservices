@@ -1,6 +1,7 @@
-## NodeJs Microservice (Demo)
-In this demo, I've first leveraged native API gateway using express, then after that used `express-gateway` which is
-a microservices API gateway built on Express.js, unfortunately that package is not maintained anymore.
+## NodeJs Microservices (Demo)
+
+This repo is focused on practical microservices building design principles and patterns (API gateways, monitoring and logging, communication patterns, security best practices, etc)
+Each directory is a topic on it's own, explaining in practice this concept or topic using a demo project.
 
 ## TOC
 - [ ] API Gateway and Edge services
